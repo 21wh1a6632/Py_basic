@@ -1,0 +1,3 @@
+#Displaying the code
+#Using py built-in-functions
+print("Hello World!")
